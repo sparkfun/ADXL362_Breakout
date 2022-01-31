@@ -12,9 +12,10 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 * **/Production** - Test bed files and production panel files
 
-Full Datasheet Implementation
+Available Libraries
 -----------------------------
 * [Winkel ICT ADXL362](https://github.com/winkelict/ADXL362)
+* [Annem ADXL362](https://github.com/annem/ADXL362)
 
 License Information
 -------------------
